@@ -1,9 +1,8 @@
-<p align="center">
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
 <h1 align="center">
     <img alt="Bikcraft" title="#BrBikcraftafe1" src="./bikcraft.png" />
 </h1>
+
+
 
 <h4 align="center"> 
 	🚧  CSS com SASS 🚧
